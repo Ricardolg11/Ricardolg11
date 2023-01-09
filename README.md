@@ -6,9 +6,8 @@
 
 
  <div align="center">
-  <a href="https://github.com/Ricardolg11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardolg11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardolg11&layout=compact&langs_count=7&theme=dark"/>
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ricardolg11&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Moiseis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardolg11&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
   
   <div style="display: inline_block">
@@ -29,4 +28,4 @@
  
 </div>
 
-![snake gif](https://github.com/Ricardolg11/Ricardolg11/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ricardolg11&bg_color=151414&color=85d0ff&line=ffffff&point=6b6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

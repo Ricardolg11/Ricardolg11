@@ -29,4 +29,8 @@
  
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ricardolg11&bg_color=151414&color=85d0ff&line=ffffff&point=6b6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+  ![Snake animation](https://github.com/Ricardolg11/Ricardolg11/blob/output/github-contribution-grid-snake.svg)
+  
+</div>

@@ -15,7 +15,7 @@
   <img align="center" alt="Ricar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricar-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-  <img align="right" alt="Ricar-pic" height="60" style="border-radius:50px;" src="https://media.tenor.com/XKaKS-ZIOFwAAAAC/gojo-gojo-satoru.gif">
+  <img align="right" alt="Ricar-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/XKaKS-ZIOFwAAAAC/gojo-gojo-satoru.gif">
   <img align="center" alt="Ricar-CSS" height="35" width="45" src="https://img.icons8.com/color/48/000000/git.png">
  
   

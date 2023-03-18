@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardolg11&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-  <div style="display: inline_block">
+  <div style="display: inline_block ">
   <img align="center" alt="Ricar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ricar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ricar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,12 +17,11 @@
   <img align="right" alt="Ricar-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/XKaKS-ZIOFwAAAAC/gojo-gojo-satoru.gif">
   <img align="center" alt="Ricar-GIT" height="35" width="45" src="https://img.icons8.com/color/48/000000/git.png">
  
-  
 </div>
-  
+ 
   ##
 
-<div> 
+<div align="center" > 
   <a href="https://www.youtube.com/channel/UCKDI4BhryNhGEByVlf3rWxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ricardolg11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lgx11" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>

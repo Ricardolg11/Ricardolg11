@@ -18,7 +18,6 @@
   <img align="center" alt="Ricar-GIT" height="35" width="45" src="https://img.icons8.com/color/48/000000/git.png">
  
 </div>
- 
   ##
 
 <div align="center" > 
